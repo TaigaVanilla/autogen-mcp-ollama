@@ -25,7 +25,7 @@ Before running this agent, ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TaigaVanilla/autogen-mcp-ollama.git
    cd autogen-mcp-ollama
    ```
 
